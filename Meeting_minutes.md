@@ -1,3 +1,6 @@
+#### 20/11/24
+1. In Ebola Mini-Project 6th question change huge print to 10 or 12 
+
 #### 15/11/24
 1. Change Mini-Project 6 ( Question 6 print )
    
